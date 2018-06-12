@@ -1,0 +1,11 @@
+ru/systemoteh/springsecurity_001/service/UserDetailsServiceImpl.class
+ru/systemoteh/springsecurity_001/service/SecurityService.class
+ru/systemoteh/springsecurity_001/service/SecurityServiceImpl.class
+ru/systemoteh/springsecurity_001/dao/UserDao.class
+ru/systemoteh/springsecurity_001/dao/RoleDao.class
+ru/systemoteh/springsecurity_001/service/UserService.class
+ru/systemoteh/springsecurity_001/controller/UserController.class
+ru/systemoteh/springsecurity_001/model/User.class
+ru/systemoteh/springsecurity_001/model/Role.class
+ru/systemoteh/springsecurity_001/validator/UserValidator.class
+ru/systemoteh/springsecurity_001/service/UserServiceImpl.class

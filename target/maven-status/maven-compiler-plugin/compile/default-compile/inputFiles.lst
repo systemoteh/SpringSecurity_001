@@ -1,0 +1,11 @@
+/home/systemoteh/IdeaProjects/SpringSecurity_001/src/main/java/ru/systemoteh/springsecurity_001/validator/UserValidator.java
+/home/systemoteh/IdeaProjects/SpringSecurity_001/src/main/java/ru/systemoteh/springsecurity_001/service/UserServiceImpl.java
+/home/systemoteh/IdeaProjects/SpringSecurity_001/src/main/java/ru/systemoteh/springsecurity_001/service/UserService.java
+/home/systemoteh/IdeaProjects/SpringSecurity_001/src/main/java/ru/systemoteh/springsecurity_001/service/UserDetailsServiceImpl.java
+/home/systemoteh/IdeaProjects/SpringSecurity_001/src/main/java/ru/systemoteh/springsecurity_001/service/SecurityServiceImpl.java
+/home/systemoteh/IdeaProjects/SpringSecurity_001/src/main/java/ru/systemoteh/springsecurity_001/controller/UserController.java
+/home/systemoteh/IdeaProjects/SpringSecurity_001/src/main/java/ru/systemoteh/springsecurity_001/service/SecurityService.java
+/home/systemoteh/IdeaProjects/SpringSecurity_001/src/main/java/ru/systemoteh/springsecurity_001/dao/RoleDao.java
+/home/systemoteh/IdeaProjects/SpringSecurity_001/src/main/java/ru/systemoteh/springsecurity_001/model/Role.java
+/home/systemoteh/IdeaProjects/SpringSecurity_001/src/main/java/ru/systemoteh/springsecurity_001/model/User.java
+/home/systemoteh/IdeaProjects/SpringSecurity_001/src/main/java/ru/systemoteh/springsecurity_001/dao/UserDao.java
