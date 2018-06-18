@@ -27,7 +27,11 @@ CREATE TABLE spring_security_001.user_roles (
   ENGINE = InnoDB;
 
 -- Insert data
-INSERT INTO spring_security_001.users VALUES (1, 'systemoteh', '$2a$04$VKX6zZ9WIrKIkNgj05jEaOn1CoQUg3cPQXs2Sodfqw41QEhnheqJC');
-INSERT INTO spring_security_001.roles VALUES (1, 'ROLE_USER');
-INSERT INTO spring_security_001.roles VALUES (2, 'ROLE_ADMIN');
-INSERT INTO spring_security_001.user_roles VALUES (1, 2);
+-- login: admin     password: admin
+-- login: user      password: user
+INSERT INTO spring_security_001.users VALUES (1, 'admin', '$2a$04$cMJ4Hhur5MQuyn41MbNRLOuYyhtq5VUucAf8uw0g.CXbjb.jtWWR2');
+INSERT INTO spring_security_001.users VALUES (2, 'user', '$2a$04$TA3vJwtPAcBzSXBVUFIRou9qymYuKd.qF97Ia8dc1tzRpTss9roTG');
+INSERT INTO spring_security_001.roles VALUES (1, 'ROLE_ADMIN');
+INSERT INTO spring_security_001.roles VALUES (2, 'ROLE_USER');
+INSERT INTO spring_security_001.user_roles VALUES (1, 1);
+INSERT INTO spring_security_001.user_roles VALUES (2, 2);
